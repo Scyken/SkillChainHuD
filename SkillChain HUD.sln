@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillChain HUD", "SkillChain HUD.csproj", "{6F9F5D2B-887D-46D7-8137-B6BEAA379452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9F5D2B-887D-46D7-8137-B6BEAA379452}.Debug|x64.ActiveCfg = Debug|x64
+		{6F9F5D2B-887D-46D7-8137-B6BEAA379452}.Debug|x64.Build.0 = Debug|x64
+		{6F9F5D2B-887D-46D7-8137-B6BEAA379452}.Release|x64.ActiveCfg = Release|x64
+		{6F9F5D2B-887D-46D7-8137-B6BEAA379452}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB95AED0-385E-4B86-B896-307BD9783E1E}
+	EndGlobalSection
+EndGlobal

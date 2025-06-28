@@ -1,0 +1,57 @@
+# --------------------------
+# Blish HUD Module .gitignore
+# --------------------------
+
+# Build output
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS local workspace
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet packages
+/packages/
+
+# Blish HUD settings
+/settings/
+config.json
+
+# Logs or runtime data
+*.log
+
+# System files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Recycle bin folder on Windows
+$RECYCLE.BIN/
+
+# Windows thumbnail cache
+*.db
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Ignore backups or autosave
+*.orig
+
+# Ignore Blish HUD deployment output (if used)
+publish/
